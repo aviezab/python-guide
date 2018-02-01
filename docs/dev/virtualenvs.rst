@@ -221,7 +221,7 @@ Basic Usage
 
 .. code-block:: console
 
-   $ cd my_project_folder
+   $ mkdir my_project_folder
    $ virtualenv my_project
 
 ``virtualenv my_project`` will create a folder in the current directory which will
